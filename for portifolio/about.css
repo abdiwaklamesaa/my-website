@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+h1{
+    color:rgb(56, 54, 54) ;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    background-color: hsl(100, 100%, 50%);
+}
+h1:hover{
+    color: white;
+    background-color: hsl(0, 0%, 0%);
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+font-size: 40px;
+color: rgb(56, 54, 54);
+padding: 15px;
+margin: 15px;
+}
+.aa{
+    float: inline-end;
+}
+ a{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 25px;
+    background-color: hsl(0, 0%, 25%);
+    color: white;
+    padding: 20px;
+    margin: 15px;
+
+}
+.aa a:hover{
+    background-color:hsl(0, 0%, 15%) ;
+}
